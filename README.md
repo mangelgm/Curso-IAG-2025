@@ -44,30 +44,4 @@ Este proyecto fue desarrollado principalmente en **Python 3**. Las librerías cl
 
 ---
 
-## 🏁 Cómo Empezar
 
-Si deseas ejecutar estos notebooks localmente, sigue estos pasos:
-
-1.  **Clona el repositorio:**
-    ```bash
-    git clone [https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git](https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git)
-    cd NOMBRE_DEL_REPO
-    ```
-
-2.  **(Recomendado) Crea un entorno virtual:**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # En Windows usa: venv\Scripts\activate
-    ```
-
-3.  **Instala las dependencias:**
-    Como mencionamos antes, este paso usa el archivo `requirements.txt`.
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4.  **Inicia Jupyter Lab:**
-    ```bash
-    jupyter lab
-    ```
-    ¡Y listo! Ya puedes abrir y ejecutar los notebooks.
